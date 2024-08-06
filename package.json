@@ -1,5 +1,6 @@
 {
-  "name": "initial",
+  "homepage": "https://vishwas-solanki.github.io/react-app",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
